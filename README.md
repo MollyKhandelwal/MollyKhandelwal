@@ -40,7 +40,7 @@ MongoDB • PostgreSQL
 
 ## 📌 Featured Projects
 
-### toyDB Storage Engine
+### ToyDB Storage Engine
 
 Implemented core DBMS concepts including storage management and data access mechanisms to understand database internals.
 
