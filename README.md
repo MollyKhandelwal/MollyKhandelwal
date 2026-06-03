@@ -1,10 +1,77 @@
-<h1 align="center">Hi 👋, I'm molly sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi 👋 I'm Molly 
 
-- 🔭 I’m currently working on **ml project**
+🎓 **B.Sc. AI & Data Science Student at IIT Jodhpur**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+💡 Aspiring Machine Learning Engineer passionate about building data-driven solutions and solving real-world problems using AI and Data Science.
+
+---
+
+## 🚀 About Me
+
+* 🎓 B.Sc. AI & Data Science, IIT Jodhpur
+* 📍 Hyderabad, India
+* 📊 Interested in Machine Learning, Data Analytics, and Product Development
+* 🌱 Currently learning Deep Learning and Advanced Machine Learning
+* ⚡ Goal: Build impactful AI-powered products
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+Python • R • SQL
+
+### Data Science & Machine Learning
+
+NumPy • Pandas • Matplotlib • Plotly
+
+Scikit-Learn • TensorFlow • PyTorch
+
+### Development Tools
+
+Git • Docker • Linux • Django
+
+### Databases
+
+MongoDB • PostgreSQL
+
+---
+
+## 📌 Featured Projects
+
+### toyDB Storage Engine
+
+Implemented core DBMS concepts including storage management and data access mechanisms to understand database internals.
+
+### IntelliCredit AI
+
+AI-powered credit risk analysis and prediction system using machine learning techniques.
+
+### BM25 ML Analytics
+
+Information retrieval and document ranking system using BM25 relevance scoring.
+
+### AI M&A Acquisition Model
+
+AI-driven merger and acquisition deal sourcing and analytics platform.
+
+---
+
+## 🎯 Current Focus
+
+* Machine Learning
+* Deep Learning
+* Data Analytics
+* Database Systems
+* AI Product Development
+
+---
+
+## 📫 Connect With Me
+
+📧 [mollykhandelwal.23@gmail.com](mailto:mollykhandelwal.23@gmail.com)
+
+🎓 IIT Jodhpur
+
+⭐ Always learning, building, and improving.
