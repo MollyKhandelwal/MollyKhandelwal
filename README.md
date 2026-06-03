@@ -20,7 +20,7 @@
 
 ### Programming Languages
 
-Python • R • SQL
+Python • R • SQL • C
 
 ### Data Science & Machine Learning
 
