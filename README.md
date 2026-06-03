@@ -1,6 +1,6 @@
 # Hi 👋 I'm Molly 
 
-🎓 **B.Sc. AI & Data Science Student at IIT Jodhpur**
+🎓 ** AI & Data Science Student at IIT Jodhpur**
 
 💡 Aspiring Machine Learning Engineer passionate about building data-driven solutions and solving real-world problems using AI and Data Science.
 
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-* 🎓 B.Sc. AI & Data Science, IIT Jodhpur
+* 🎓 AI & Data Science, IIT Jodhpur
 * 📍 Hyderabad, India
 * 📊 Interested in Machine Learning, Data Analytics, and Product Development
 * 🌱 Currently learning Deep Learning and Advanced Machine Learning
